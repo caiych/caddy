@@ -1,1 +1,1 @@
-FROM caddy:2.4.5
+FROM caddy:2.6.4
